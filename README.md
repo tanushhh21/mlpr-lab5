@@ -1,5 +1,4 @@
-<img width="2048" height="1475" alt="image" src="https://github.com/user-attachments/assets/879811ae-5e35-4473-8233-94d8ae461b72" /># mlpr-lab5
-Lab 5 project demonstrating face detection and clustering using OpenCV and K-Means. Faces are detected with Haar Cascade, features are extracted using HSV color space, and clustering is performed based on hue and saturation. A template face is classified and visualized within learned clusters.
+
 
 Overview
 This repository contains the implementation of Lab 5 for the course Machine Learning and Pattern Recognition (Spring 2026). The project demonstrates a complete computer vision and machine learning workflow involving face detection, feature extraction, unsupervised clustering, and classification of a new image based on learned patterns.
